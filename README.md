@@ -3,12 +3,11 @@ backup plan
 
 How to run this Library Management System Project
 
-1. Download and Unzip file on your local system copy library.
-2. Put library folder inside eoot directory
+Put inside root directory(xampp folder)
 
 Database Configuration
 
-Open phpmyadmin
+Open phpmyadmin (localhost/phpmyadmin)
 Create Database ibrary
 Import database library.sql 
 
